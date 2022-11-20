@@ -1,1 +1,10 @@
 just a sample file 
+
+
+git:https://github.com
+yusufshaikh7394
+Bablukbaba@123
+
+personal access toke:
+
+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
